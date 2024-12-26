@@ -1,0 +1,17 @@
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabt.Repository.deps.json
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabt.Repository.runtimeconfig.json
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabt.Repository.dll
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabt.Repository.pdb
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.csproj.AssemblyReference.cache
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.AssemblyInfoInputs.cache
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.AssemblyInfo.cs
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.R.BB7E4FC9.Up2Date
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.dll
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\refint\Talabt.Repository.dll
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.pdb
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\Talabt.Repository.genruntimeconfig.cache
+C:\Users\Ngt\source\repos\Talabt.API\Talabt.Repository\obj\Debug\net6.0\ref\Talabt.Repository.dll
