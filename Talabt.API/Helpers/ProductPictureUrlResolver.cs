@@ -17,7 +17,7 @@ namespace Talabt.API.Helpers
         public string Resolve(Product source, ProductToReturnDto destination, string destMember, ResolutionContext context)
         {
             if (!string.IsNullOrEmpty(source.PictureUrl))
-                return $"{_config["BaseUrl"]}{source.PictureUrl}";
+                return $"{_config["BaseUrl"]}/{source.PictureUrl}";
 
             return string.Empty;
 
